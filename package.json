@@ -1,5 +1,5 @@
 {
-  "name": "nhducit/react-native-keyboard-aware-scrollview",
+  "name": "nhducit-react-native-keyboard-aware-scrollview",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

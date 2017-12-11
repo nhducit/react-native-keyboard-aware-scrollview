@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/wix/react-native-keyboard-aware-scrollview",
   "main": "index.js",
-  "author": "Artal Druk <artald@wix.com>",
+  "author": "Duc",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.25.1",

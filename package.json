@@ -1,19 +1,18 @@
 {
-  "name": "react-native-keyboard-aware-scrollview",
+  "name": "nhducit/react-native-keyboard-aware-scrollview",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wix/react-native-keyboard-aware-scrollview.git"
+    "url": "https://github.com/nhducit/react-native-keyboard-aware-scrollview.git"
   },
   "version": "1.1.7",
   "description": "React Native Keyboard Aware ScrollView - auto adjust content ScrollView",
   "nativePackage": true,
   "bugs": {
-    "url": "https://github.com/wix/react-native-keyboard-aware-scrollview/issues"
+    "url": "https://github.com/nhducit/react-native-keyboard-aware-scrollview/issues"
   },
-  "homepage": "https://github.com/wix/react-native-keyboard-aware-scrollview",
   "main": "index.js",
   "author": "Duc",
   "license": "MIT",
